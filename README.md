@@ -6,4 +6,4 @@ I like to code in my free time. I mainly make mods and addons for games but I've
 
 ---
 
-[![Top Langs](https://github-readme-stats-lambdagaming.vercel.app/api/top-langs/?username=lambdagaming&layout=compact&title_color=ff5900&text_color=ffffff&icon_color=ffffff&border_color=ffffff&bg_color=000011)](https://github.com/LambdaGaming)
+[![Top Langs](https://github-readme-stats-lambdagaming.vercel.app/api/top-langs/?username=lambdagaming&layout=compact&title_color=ff5900&text_color=ffffff&icon_color=ffffff&border_color=ffffff&bg_color=000011&langs_count=10)](https://github.com/LambdaGaming)
