@@ -1,4 +1,8 @@
-I like to make mods and addons for games as a hobby. All of my released projects are open source and can be found here on GitHub. Some of my projects can also be downloaded from the [Steam Workshop](https://steamcommunity.com/profiles/76561198136556075/myworkshopfiles). If you would like to contact me for any reason, the fastest way to get a response is to either add me on [Steam](https://steamcommunity.com/profiles/76561198136556075) or join the [Lambda Gaming Discord](https://discord.gg/9RGdUS2). If you would like to support me, you can donate through [Ko-fi.](https://ko-fi.com/lambdagaming)
+I like to make mods and addons for games such as Garry's Mod, SCP: Secret Laboratory, Half-Life, and s&box.
+
+- [Steam](https://steamcommunity.com/profiles/76561198136556075)
+- [Discord](https://discord.gg/9RGdUS2)
+- [Ko-fi](https://ko-fi.com/lambdagaming)
 
 ---
 [![Stats](https://github-readme-stats-lambdagaming.vercel.app/api?username=lambdagaming&show_icons=true&title_color=ff5900&text_color=ffffff&icon_color=ffffff&border_color=ffffff&bg_color=000011&count_private=true)](https://github.com/LambdaGaming)
