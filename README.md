@@ -8,4 +8,4 @@ I enjoy programming as a hobby. I mainly make mods for video games but I also ma
 
 ---
 
-[![Top Langs](https://github-readme-stats-lambdagaming.vercel.app/api/top-langs/?username=lambdagaming&layout=compact&title_color=ff5900&text_color=ffffff&icon_color=ffffff&border_color=ffffff&bg_color=000011&langs_count=6&hide=html)](https://github.com/LambdaGaming)
+[![Top Langs](https://github-readme-stats-lambdagaming.vercel.app/api/top-langs/?username=lambdagaming&layout=compact&title_color=ff5900&text_color=ffffff&icon_color=ffffff&border_color=ffffff&bg_color=000011&langs_count=6&hide=html,css)](https://github.com/LambdaGaming)
