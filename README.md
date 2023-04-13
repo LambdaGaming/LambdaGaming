@@ -1,6 +1,7 @@
-I enjoy programming as a hobby. I mainly make mods for video games but I also make small utility programs and work with microcontrollers.
+I enjoy programming as a hobby. I mainly make mods for video games but I also occasionally make small utility programs and do things with microcontrollers.
 
 - [Steam Profile](https://steamcommunity.com/profiles/76561198136556075)
+- [Thingiverse Profile](https://www.thingiverse.com/lambdagaming/designs)
 - [Discord Server](https://discord.gg/9RGdUS2)
 
 ---
