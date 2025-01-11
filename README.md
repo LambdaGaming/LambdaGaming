@@ -22,3 +22,5 @@
 [Making the Switch to Linux](https://gist.github.com/LambdaGaming/acd96061177027e0841f677e40133ec2)
 
 [Identifying and Avoiding Steam and Discord Scams](https://lambdagaming.github.io/Guides/avoiding_scams/avoiding_scams.html)
+
+[Source Diagram](https://raw.githubusercontent.com/LambdaGaming/Guides/refs/heads/main/source_diagram/source.svg)
