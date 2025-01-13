@@ -19,7 +19,7 @@
 
 [Using Hammer on Linux](https://steamcommunity.com/sharedfiles/filedetails/?id=3220400005)
 
-[Making the Switch to Linux](https://gist.github.com/LambdaGaming/acd96061177027e0841f677e40133ec2)
+[Making the Switch to Linux](https://lambdagaming.github.io/Guides/switching_to_linux/switching_to_linux.html)
 
 [Identifying and Avoiding Steam and Discord Scams](https://lambdagaming.github.io/Guides/avoiding_scams/avoiding_scams.html)
 
