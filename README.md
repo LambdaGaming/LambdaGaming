@@ -1,7 +1,7 @@
 ### Profiles
 [Steam](https://steamcommunity.com/profiles/76561198136556075)
 
-[Thingiverse](https://www.thingiverse.com/lambdagaming/designs)
+[Thingiverse](https://www.thingiverse.com/opgman/designs)
 
 [Discord Server](https://discord.gg/9RGdUS2)
 
