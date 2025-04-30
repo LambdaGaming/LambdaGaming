@@ -21,7 +21,7 @@
 
 [Playing LSPDFR on Linux](https://steamcommunity.com/sharedfiles/filedetails/?id=3440317058)
 
-[Making the Switch to Linux](https://lambdagaming.github.io/Guides/switching-to-linux)
+[Switching to Linux](https://lambdagaming.github.io/Guides/switching-to-linux)
 
 [Identifying and Avoiding Steam and Discord Scams](https://lambdagaming.github.io/Guides/avoiding-scams)
 
